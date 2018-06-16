@@ -2,8 +2,5 @@
 # returns the phrase
 
 def parrot(arg = "Squawk!")
-  if arg.nil?
-    puts arg
-  else 
-    puts arg 
+ puts arg
 end
