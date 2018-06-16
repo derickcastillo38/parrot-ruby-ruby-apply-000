@@ -3,4 +3,5 @@
 
 def parrot(arg)
   puts arg
+  return arg
 end
